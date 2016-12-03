@@ -1,3 +1,3 @@
 # hello-world
-training repo
+ repo
 Just making some changes to this file.
